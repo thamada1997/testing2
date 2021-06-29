@@ -1,0 +1,2 @@
+1.learned cloning,creating repositories
+2.added new files and pushed to git.
